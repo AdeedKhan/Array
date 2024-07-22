@@ -1,0 +1,14 @@
+D:\De-coders\Array\array\array\bin\Debug\net8.0\array.exe
+D:\De-coders\Array\array\array\bin\Debug\net8.0\array.deps.json
+D:\De-coders\Array\array\array\bin\Debug\net8.0\array.runtimeconfig.json
+D:\De-coders\Array\array\array\bin\Debug\net8.0\array.dll
+D:\De-coders\Array\array\array\bin\Debug\net8.0\array.pdb
+D:\De-coders\Array\array\array\obj\Debug\net8.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\De-coders\Array\array\array\obj\Debug\net8.0\array.AssemblyInfoInputs.cache
+D:\De-coders\Array\array\array\obj\Debug\net8.0\array.AssemblyInfo.cs
+D:\De-coders\Array\array\array\obj\Debug\net8.0\array.csproj.CoreCompileInputs.cache
+D:\De-coders\Array\array\array\obj\Debug\net8.0\array.dll
+D:\De-coders\Array\array\array\obj\Debug\net8.0\refint\array.dll
+D:\De-coders\Array\array\array\obj\Debug\net8.0\array.pdb
+D:\De-coders\Array\array\array\obj\Debug\net8.0\array.genruntimeconfig.cache
+D:\De-coders\Array\array\array\obj\Debug\net8.0\ref\array.dll
